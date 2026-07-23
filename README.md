@@ -4,11 +4,10 @@
 ![Field](https://img.shields.io/badge/Field-Nuclear_Engineering-green.svg)
 ![Standard](https://img.shields.io/badge/Standard-ASME_BPVC_Sec_III-red.svg)
 
-[English](#english) | [Italiano](#italiano)
+[English](#-english) | [Italiano](#-italiano)
 
 ---
 
-<a name="english"></a>
 ## 🇬🇧 English
 
 ### Overview
