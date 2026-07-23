@@ -23,3 +23,12 @@ The project focuses on the thermo-mechanical verification and structural integri
 1. **Operating Context & Core Geometry:** Based on standard AP1000 fuel assembly specifications, Zircaloy-4 cladding properties, and enriched uranium dioxide pellets[cite: 1].
 2. **Stress Categorization:** Separates primary mechanical loads caused by system pressures from self-limiting secondary stresses driven by radial thermal gradients across the cladding[cite: 1].
 3. **Regulatory Verification:** Compares the calculated stress states against allowable nuclear design intensity limits to ensure wide safety margins during steady-state operations[cite: 1].
+
+## Repository Structure
+```text
+.
+├── src/                # Python calculation routines and thermodynamic libraries
+├── data/               # Core design parameters and material property tables
+├── docs/               # Assignment documentation and technical reference report
+├── results/            # Stress distribution plots and verification charts
+└── README.md           # Project summary and documentation
